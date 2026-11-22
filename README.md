@@ -8,6 +8,9 @@ A clean, modern, responsive personal developer portfolio website designed and de
 
 This project is submitted as part of the **Web Technology Internal Assessment** (School of Engineering).
 
+- 🔗 **GitHub Repository:** [https://github.com/TARAL1812/TaralModi_267143_Portfolio](https://github.com/TARAL1812/TaralModi_267143_Portfolio)
+- 🌐 **Live Website Link (GitHub Pages):** [https://taral1812.github.io/TaralModi_267143_Portfolio/](https://taral1812.github.io/TaralModi_267143_Portfolio/)
+
 ---
 
 ## 📸 Portfolio Preview
